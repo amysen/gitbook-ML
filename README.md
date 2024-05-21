@@ -1,10 +1,44 @@
 ---
-description: Back to basics
+description: Back to basics. It all starts here.
 ---
 
 # Basic ML Knowledge
 
+**What is Machine Learning?**
 
+* Understanding the definition and motivation behind machine learning
+* Difference between traditional programming and machine learning
+* Types of machine learning: supervised, unsupervised, reinforcement learning
+
+
+
+**Machine Learning Process**
+
+* Data preparation (cleaning, preprocessing, splitting into train/test sets)
+* Model training and evaluation&#x20;
+* Hyperparameter tuning and model validation
+
+
+
+### AI vs Machine Learning vs Deep Learning
+
+...
+
+
+
+### Supervised Learning
+
+
+
+### Unsupervised Learning
+
+### &#x20;
+
+### Reinforcement Learning
+
+
+
+***
 
 ### Data Splits
 
@@ -37,6 +71,8 @@ The key differences are:
 **Random Sampling**
 
 
+
+***
 
 ### **Overfitting**
 
