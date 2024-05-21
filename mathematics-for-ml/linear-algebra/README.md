@@ -8,6 +8,17 @@ Course:&#x20;
 
 Mathematics for Machine Learning: Linear Algebra by Imperial College London. [Link](https://www.coursera.org/learn/linear-algebra-machine-learning/).
 
+Book:
+
+* Systems of Linear Equations
+* Matrices
+* Solving Systems of Linear Equations
+* Vector Spaces
+* Linear Independence
+* Basis and Rank
+* Linear Mappings
+* Affine Spaces
+
 
 
 
