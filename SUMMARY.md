@@ -1,11 +1,14 @@
 # Table of contents
 
-* [Basic ML Knowledge](README.md)
+* [Introduction](README.md)
+* [Basic ML Knowledge](<README (1).md>)
 * [Supervised Learning](supervised-learning.md)
 * [Unsupervised Learning](unsupervised-learning.md)
 * [Reinforcement Learning](reinforcement-learning.md)
 * [NLP](nlp/README.md)
+  * [Intro to NLP](nlp/intro-to-nlp.md)
   * [Transformers](nlp/transformers.md)
+  * [Large Language Models](nlp/large-language-models.md)
   * [PEFT](nlp/peft.md)
   * [RLHF](nlp/rlhf.md)
   * [Benchmarking](nlp/benchmarking.md)
