@@ -27,3 +27,4 @@
 * [MLOps](mlops.md)
 * [ML Interview Questions](ml-interview-questions.md)
 * [Reading List](reading-list.md)
+* [General Resources](general-resources.md)
