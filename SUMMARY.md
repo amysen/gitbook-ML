@@ -24,6 +24,7 @@
   * [Algorithms and Optimization](mathematics-for-ml/algorithms-and-optimization.md)
 * [GPUs](gpus/README.md)
   * [CUDA](gpus/cuda.md)
+  * [Additional Resources](gpus/additional-resources.md)
 * [MLOps](mlops.md)
 * [ML Interview Questions](ml-interview-questions.md)
 * [Reading List](reading-list.md)
