@@ -90,6 +90,10 @@ Loss goes down =
 
 Loss doesnt move =
 
+
+
+### **Activation Functions**
+
 ### **Regularization**
 
 
