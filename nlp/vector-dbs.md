@@ -122,6 +122,10 @@ Where are these used today?
 
 
 
+Deep Dive into Vector Databases by Hand, [Link](https://towardsdatascience.com/deep-dive-into-vector-databases-by-hand-e9ab71f54f80)
+
+
+
 
 
 
